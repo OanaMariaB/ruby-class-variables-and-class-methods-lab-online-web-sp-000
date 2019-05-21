@@ -13,7 +13,7 @@ class Song
 
   def self.count
     @@count
-    @€genres
+    @@genres
   end
 
   @@genres = []
