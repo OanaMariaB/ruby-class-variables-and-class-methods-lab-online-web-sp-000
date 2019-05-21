@@ -10,13 +10,13 @@ class Song
   end
 
   @@count = 0
-
+  @@genres = []
+  @@artists = []
 
   def self.count
     @@count
   end
 
-  @@genres = []
 
 
 end
