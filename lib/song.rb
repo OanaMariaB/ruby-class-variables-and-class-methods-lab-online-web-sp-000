@@ -10,6 +10,6 @@ class Song
 
   @@count = 0
   def self.count_songs
-    
+
   end
 end
