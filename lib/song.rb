@@ -10,7 +10,7 @@ class Song
   end
 
   @@count = 0
-  @@genes = 0
+  @@genres = 0
 
   def self.count
     @@count
