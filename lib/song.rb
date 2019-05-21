@@ -10,6 +10,7 @@ class Song
   end
 
   @@count = 0
+  @@genes = 0
 
   def self.count
     @@count
@@ -18,8 +19,8 @@ class Song
 
   @@genres = []
 
-  def self.genres(genre)
-    @@genre << genre
+  def self.genres
+    @@genre
   end
 
 
