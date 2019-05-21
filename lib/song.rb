@@ -14,13 +14,9 @@ class Song
 
   def self.count
     @@count
-    @@genres
   end
 
   @@genres = []
-
-  d
-
 
 
 end
